@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Michael.
 - 📌 I'm from Germany.
 - 👀 I’m interested in doing fun stuff with code, reading, being around my friends.
-- ✈️ I'd love to visit the Scandinavian countries some day.
+- ✈️ I'd love to visit the Scandinavian countries some day. { sweden: :heavy_check_mark: }
 - 🌱 I’m currently interested in Full-Stack Development and DevOps.
 - 💞️ I’d like to collaborate in a big open-source project.
 - 💻 I do customize my shell(fish)
